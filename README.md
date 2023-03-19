@@ -9,6 +9,8 @@
 <br>
 
 ![Matheus Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=MaatPyscript&show_icons=true&theme=radical)
+<br> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaatPyscript)](https://github.com/MaatPyscript/github-readme-stats)
 
 <br>
 
