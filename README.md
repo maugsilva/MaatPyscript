@@ -53,6 +53,6 @@
 [![.NET](	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <br>
-Apaixonado pelo mundo da tecnologia e em me autodesenvolver.
+Apaixonado pelo mundo da tecnologia, amante da psicologia e sempre disposto em me autodesenvolver.
 <br> <br>
 "O mundo não se adpta a você, você é quem precisa se adptar a ele, somos uma constante evolução."
